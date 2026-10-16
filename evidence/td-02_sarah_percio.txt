@@ -1,0 +1,28 @@
+@sarah695 ➜ /workspaces/esilv-marketpulse-g06-t05 (main) $ git checkout -b sarah-percio
+Switched to a new branch 'sarah-percio'
+@sarah695 ➜ /workspaces/esilv-marketpulse-g06-t05 (sarah-percio) $ git branch
+  main
+* sarah-percio
+@sarah695 ➜ /workspaces/esilv-marketpulse-g06-t05 (sarah-percio) $ pwd 
+/workspaces/esilv-marketpulse-g06-t05
+@sarah695 ➜ /workspaces/esilv-marketpulse-g06-t05 (sarah-percio) $ ls
+CONTRIBUTING.md   config  evidence          td-02_sarah_percio.txt
+README.md         data    requirements.txt
+TEAM_TEMPLATE.md  docs    src
+@sarah695 ➜ /workspaces/esilv-marketpulse-g06-t05 (sarah-percio) $ ls -la
+total 60
+drwxrwxrwx+ 8 codespace root       4096 Oct 16 08:57 .
+drwxr-xrwx+ 5 codespace root       4096 Oct 16 07:36 ..
+drwxrwxrwx+ 8 codespace root       4096 Oct 16 08:40 .git
+-rw-rw-rw-  1 codespace root        178 Oct 16 07:36 .gitignore
+-rw-rw-rw-  1 codespace root       2943 Oct 16 07:36 CONTRIBUTING.md
+-rw-rw-rw-  1 codespace root      10270 Oct 16 07:36 README.md
+-rw-rw-rw-  1 codespace root       1446 Oct 16 07:36 TEAM_TEMPLATE.md
+drwxrwxrwx+ 2 codespace root       4096 Oct 16 07:36 config
+drwxrwxrwx+ 3 codespace root       4096 Oct 16 07:36 data
+drwxrwxrwx+ 4 codespace root       4096 Oct 16 07:36 docs
+drwxrwxrwx+ 2 codespace root       4096 Oct 16 07:36 evidence
+-rw-rw-rw-  1 codespace root        133 Oct 16 07:36 requirements.txt
+drwxrwxrwx+ 2 codespace root       4096 Oct 16 07:36 src
+-rw-rw-rw-  1 codespace codespace     0 Oct 16 08:57 td-02_sarah_percio.txt
+@sarah695 ➜ /workspaces/esilv-marketpulse-g06-t05 (sarah-percio) $ 
